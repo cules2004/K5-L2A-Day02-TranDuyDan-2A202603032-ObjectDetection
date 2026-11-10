@@ -14,3 +14,9 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+/gold_train_labels/
+
+/gold_train_labels/
+
+/gold_train_labels/
